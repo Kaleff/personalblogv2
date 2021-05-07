@@ -1,0 +1,3 @@
+Before reviewing the Website...
+Make sure to import the database "test_blog.sql" located in "/database/test_blog.sql".
+Also make sure to edit database connection parameters in "/config/db_parameters.php" if neeeded.
